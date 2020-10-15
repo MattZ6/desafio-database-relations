@@ -38,7 +38,7 @@
     "supertest": "5.0.0",
     "ts-jest": "26.4.1",
     "ts-node": "9.0.0",
-    "ts-node-dev": "1.0.0-pre.64",
+    "ts-node-dev": "1.0.0-pre.65",
     "tsconfig-paths": "3.9.0",
     "typescript": "4.0.3"
   }
